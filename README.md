@@ -16,7 +16,6 @@ It will shorten the url and give a short url as well as a search functionality i
                             EJS Basics https://youtu.be/VM-2xSaDxJc
                 # MongoDB Basics : https://youtu.be/oSIv-E60NiU Mongoose Basics: https://youtu.be/DZBGEVgL2eE
 
-                ![Screenshot (8)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/0ea4b7be-6897-429f-a263-acfa28baeb07)
-                ![Screenshot (10)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/4adcb6b7-dfb2-4609-a52f-f69e6352bc47)
-                ![Screenshot (9)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/6e42b698-334b-4cf4-a01a-ab03e4259c0b)
-
+![Screenshot (8)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/8f521697-1116-44ec-980f-ffb6f435d9be)
+![Screenshot (9)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/4551b1ce-e94c-4cd6-bab3-a5abc6b72364)
+![Screenshot (10)](https://github.com/Vansh3140/URL-Shortener/assets/95650499/b6b5b436-bb3d-4cf1-a898-9e5b0cc5f7a2)
