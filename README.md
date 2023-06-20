@@ -1,13 +1,13 @@
 # URL-Shortener
 It will shorten the url and give a short url as well as a search functionality is also there
 
-1.) Project Title: URL Shortener and Search Optimization
-2.) Project Description: Implementing a basic URL Shortener in which when you will add a long url you will get a shorten version of that whereas a search functionality is also implemented in which you can search a url from the note you have added.
+1.) Project Title: URL Shortener and Search Optimization \n
+2.) Project Description: Implementing a basic URL Shortener in which when you will add a long url you will get a shorten version of that whereas a search functionality is also implemented in which you can search a url from the note you have added. \n
 3.) How to run the Project : # Frontend: There are 2 frontend files which you can run directly from your code editor
-                             # Backend: there are other files except frontend models server.js which will run as your backend for that you have to install mongoose,express,shortid,nodemon then you can run your backend.
+                             # Backend: there are other files except frontend models server.js which will run as your backend for that you have to install mongoose,express,shortid,nodemon then you can run your backend. \n
 4.) Internal Working : #Normal :Firstly user enters a full URL and a note with it and submit that which is further processed to the backend where the data is added to the database MongoDB Atlas and you will see a short url below which will be converted by a library shortid.
-                       #Search : In search functionality you will search a url by the note which you have earlier entered and you can get a short url for the same fetched from the database.
-5.) Key Learnings : I learned how to integrate the frontend with the backend and about backend libraries and stacks like: Mongoose, Express , Node , MongoDB
+                       #Search : In search functionality you will search a url by the note which you have earlier entered and you can get a short url for the same fetched from the database. \n
+5.) Key Learnings : I learned how to integrate the frontend with the backend and about backend libraries and stacks like: Mongoose, Express , Node , MongoDB \n
 6.) Resources : #HTML and CSS revision : https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
                 #JavaScript revision :https://youtu.be/W6NZfCO5SIk
                 #Node.js and Express EJS Basics:
